@@ -2,10 +2,7 @@
 
 #include "ui_OpencvShow.h"
 #include <QtWidgets/QMainWindow>
-#include <opencv2\opencv.hpp>
 #include <QTimer>
-
-
 
 class OpencvShow : public QMainWindow
 {
@@ -18,9 +15,6 @@ private:
 
     Ui::OpencvShowClass ui;
 	QTimer *timer;
-
-
-
 
 private slots:
 	void on_btn_show();

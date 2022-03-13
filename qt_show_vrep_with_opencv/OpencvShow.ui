@@ -19,19 +19,19 @@
      <rect>
       <x>10</x>
       <y>10</y>
-      <width>691</width>
-      <height>411</height>
+      <width>512</width>
+      <height>512</height>
      </rect>
     </property>
     <property name="text">
-     <string>TextLabel</string>
+     <string>                视频显示窗口</string>
     </property>
    </widget>
    <widget class="QPushButton" name="btn_show">
     <property name="geometry">
      <rect>
-      <x>704</x>
-      <y>212</y>
+      <x>580</x>
+      <y>150</y>
       <width>81</width>
       <height>61</height>
      </rect>
@@ -43,9 +43,9 @@
    <widget class="QPushButton" name="btn_close">
     <property name="geometry">
      <rect>
-      <x>710</x>
-      <y>290</y>
-      <width>71</width>
+      <x>580</x>
+      <y>270</y>
+      <width>81</width>
       <height>61</height>
      </rect>
     </property>

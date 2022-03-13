@@ -1,6 +1,5 @@
 #include "OpencvShow.h"
 #include <QtWidgets/QApplication>
-#include<Windows.h>
 
 int main(int argc, char *argv[])
 {
